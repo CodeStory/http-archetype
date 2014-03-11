@@ -1,0 +1,2 @@
+CodeStory QuickStart - Maven Archetype
+=================
