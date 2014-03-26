@@ -1,5 +1,5 @@
 #!/bin/bash
 mvn archetype:generate \
-  -DarchetypeGroupId=net.codestory \
+  -DarchetypeGroupId=net.code-story \
   -DarchetypeArtifactId=quickstart \
-  -DarchetypeVersion=1.0-SNAPSHOT
+  -DarchetypeVersion=1.1-SNAPSHOT
